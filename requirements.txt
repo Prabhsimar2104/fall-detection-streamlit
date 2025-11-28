@@ -1,11 +1,7 @@
-streamlit
-opencv-python-headless    # headless for server
-ultralytics
-cvzone
-opencv-python
-requests
+streamlit==1.51.0
+opencv-python-headless==4.12.0.88
+ultralytics==8.3.233
+numpy
 python-dotenv
 cloudinary
-mediapipe
-numpy
-streamlit-webrtc==0.46.0   # optional — not used in snapshot mode, but fine to keep
+requests

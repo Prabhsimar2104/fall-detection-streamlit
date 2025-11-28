@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless    # headless for server
+ultralytics
+cvzone
+opencv-python
+requests
+python-dotenv
+cloudinary
+mediapipe
+numpy
+streamlit-webrtc==0.46.0   # optional — not used in snapshot mode, but fine to keep
